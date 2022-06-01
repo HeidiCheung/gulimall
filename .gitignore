@@ -14,5 +14,6 @@ buildNumber.properties
 **/*.iml
 **/target/
 .idea
+**/.gitignore
 
 
